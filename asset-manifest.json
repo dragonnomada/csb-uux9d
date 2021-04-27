@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "https://dragonnomada.github.io/csb-uux9d/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dragonnomada.github.io/csb-uux9d/static/js/main.f4de8680.chunk.js",
+    "main.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/main.f4de8680.chunk.js.map",
+    "runtime-main.js": "https://dragonnomada.github.io/csb-uux9d/static/js/runtime-main.497fe3d8.js",
+    "runtime-main.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/runtime-main.497fe3d8.js.map",
+    "stencil-polyfills-css-shim.js": "https://dragonnomada.github.io/csb-uux9d/static/js/stencil-polyfills-css-shim.29632b29.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/stencil-polyfills-css-shim.29632b29.chunk.js.map",
+    "stencil-polyfills-dom.js": "https://dragonnomada.github.io/csb-uux9d/static/js/stencil-polyfills-dom.fe7a1a9a.chunk.js",
+    "stencil-polyfills-dom.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/stencil-polyfills-dom.fe7a1a9a.chunk.js.map",
+    "static/js/4.5e4a1cef.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/4.5e4a1cef.chunk.js",
+    "static/js/4.5e4a1cef.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/4.5e4a1cef.chunk.js.map",
+    "static/js/5.c324ae09.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/5.c324ae09.chunk.js",
+    "static/js/5.c324ae09.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/5.c324ae09.chunk.js.map",
+    "static/js/6.0f40d6e2.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/6.0f40d6e2.chunk.js",
+    "static/js/6.0f40d6e2.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/6.0f40d6e2.chunk.js.map",
+    "static/js/7.cf55ff6e.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/7.cf55ff6e.chunk.js",
+    "static/js/7.cf55ff6e.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/7.cf55ff6e.chunk.js.map",
+    "static/js/8.76e2ed4d.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/8.76e2ed4d.chunk.js",
+    "static/js/8.76e2ed4d.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/8.76e2ed4d.chunk.js.map",
+    "static/js/9.a4b5a6aa.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/9.a4b5a6aa.chunk.js",
+    "static/js/9.a4b5a6aa.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/9.a4b5a6aa.chunk.js.map",
+    "static/js/10.2d574eea.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/10.2d574eea.chunk.js",
+    "static/js/10.2d574eea.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/10.2d574eea.chunk.js.map",
+    "static/js/11.782f3dcf.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/11.782f3dcf.chunk.js",
+    "static/js/11.782f3dcf.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/11.782f3dcf.chunk.js.map",
+    "static/js/12.94ae1f15.chunk.js": "https://dragonnomada.github.io/csb-uux9d/static/js/12.94ae1f15.chunk.js",
+    "static/js/12.94ae1f15.chunk.js.map": "https://dragonnomada.github.io/csb-uux9d/static/js/12.94ae1f15.chunk.js.map",
+    "index.html": "https://dragonnomada.github.io/csb-uux9d/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dragonnomada.github.io/csb-uux9d/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/10.2d574eea.chunk.js.LICENSE.txt": "https://dragonnomada.github.io/csb-uux9d/static/js/10.2d574eea.chunk.js.LICENSE.txt",
+    "static/js/12.94ae1f15.chunk.js.LICENSE.txt": "https://dragonnomada.github.io/csb-uux9d/static/js/12.94ae1f15.chunk.js.LICENSE.txt",
+    "static/js/4.5e4a1cef.chunk.js.LICENSE.txt": "https://dragonnomada.github.io/csb-uux9d/static/js/4.5e4a1cef.chunk.js.LICENSE.txt",
+    "static/js/stencil-polyfills-dom.fe7a1a9a.chunk.js.LICENSE.txt": "https://dragonnomada.github.io/csb-uux9d/static/js/stencil-polyfills-dom.fe7a1a9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.497fe3d8.js",
+    "static/js/4.5e4a1cef.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f4de8680.chunk.js"
+  ]
+}
